@@ -1,5 +1,7 @@
 # FixFAST5
-Fixing Oxford Nanopore FAST5 files which are missing entries
+Fixing Oxford Nanopore FAST5 files which are missing entries.
+
+The scripts were written by @HalfPhoton and provided in a (github issue)[https://github.com/nanoporetech/pod5-file-format/issues/97]. I am just bringing them together here to make it easier on myself should I come accross this problem again in the future. 
 
 The scripts in this repository require (pod5 tools)[https://pod5-file-format.readthedocs.io/] to be installed.
 
